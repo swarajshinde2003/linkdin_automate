@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+env/
+calculator_env/
+linkdin_env/
+
+# Environment variables
+.env
+.linkdin_env
+
+# Python cache
+__pycache__/
+*.pyc
